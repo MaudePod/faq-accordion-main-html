@@ -37,7 +37,7 @@ section[class="card"] {
     display: grid;
     width: 500px;
     height: 600px;
-    background: gainsboro;
+    background: white;
     box-sizing: border-box;
     padding: 25px;
     color: var(--grayish-purple);
